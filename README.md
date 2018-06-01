@@ -1,6 +1,5 @@
----
-title: Extended Kalman Filter Project
----
+Extended Kalman Filter Project
+==============================
 
 Self-Driving Car Engineer Nanodegree Program
 
@@ -90,7 +89,7 @@ Implementation design
 The overall flow of an EKF algorithm that fuses Lidar and Radar measurements is
 the following:
 
-![](C:/Users/archimedis/Dev/SDCt2/EKF_UKF_final/CarND_EKF_UKF/data/sensor_fusion_pipeline.JPG)
+![](data/sensor_fusion_pipeline.JPG)
 
 In the `./src/`folder following files are worth of mention:
 
